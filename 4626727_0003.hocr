@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4626727_0003.png"; bbox 0 0 1858 1858; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 421 1766 804">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 421 1766 804">
+     <span class='ocr_line' id='line_1_1' title="bbox 10 421 1766 591; baseline -0.003 -35"><span class='ocrx_word' id='word_1_1' title='bbox 10 433 374 557; x_wconf 89' lang='lat' dir='ltr'><strong>TLE:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 482 432 687 556; x_wconf 77' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_3' title='bbox 736 422 1337 591; x_wconf 77' lang='lat' dir='ltr'>paricidii</span> <span class='ocrx_word' id='word_1_4' title='bbox 1388 421 1766 552; x_wconf 81' lang='lat' dir='ltr'>Vocis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 679 344 804; baseline 0.003 -39"><span class='ocrx_word' id='word_1_5' title='bbox 0 679 344 804; x_wconf 72' lang='lat' dir='ltr'>igme</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 594 388 605">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 594 388 605">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 594 388 605; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 594 388 605; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1261 1152 1440">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1261 1152 1440">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1261 1152 1440; baseline -0.003 -47"><span class='ocrx_word' id='word_1_7' title='bbox 0 1266 460 1440; x_wconf 60' lang='grc' dir='ltr'><strong>-ᾼ-(ΣΕ-</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 558 1261 1152 1392; x_wconf 78' lang='lat' dir='ltr'>Odessae</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
